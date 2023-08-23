@@ -19,9 +19,9 @@ function App() {
     <div>
       <h1>Android intent link launch behaviour test app</h1>
       <h2>
-        Version-&nbsp;&nbsp;&nbsp;<span>4</span>
+        Version-&nbsp;&nbsp;&nbsp;<span>5</span>
       </h2>
-      <a href="intent://https://android-intent-urls.web.app/#Intent;scheme=https;package=app.web.android_intent_urls.twa;S.custom_data=your_custom_data;end">
+      <a href="intent://#Intent;scheme=https;package=app.web.android_intent_urls.twa;S.custom_data=your_custom_data;end">
         Open App with Custom Data
       </a>
 
