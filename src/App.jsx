@@ -14,15 +14,18 @@ function App() {
     web: "",
     android: "",
   });
-  const onClick = () => {};
+  // const onClick = () => {};
   return (
     <div>
       <h1>Android intent link launch behaviour test app</h1>
       <h2>
         Version-&nbsp;&nbsp;&nbsp;<span>2</span>
       </h2>
+      <a href="intent://view/#Intent;scheme=app.web.android_intent_urls.twa;package=app.web.android_intent_urls.twa;S.custom_data=your_custom_data;end">
+        Open App with Custom Data
+      </a>
 
-      <button onClick={onClick}>Click to launch android app</button>
+      {/* <a onClick={onClick}>Click to launch android app</a> */}
       <br />
       <br />
       <button
