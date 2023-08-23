@@ -26,3 +26,7 @@ dist-ssr
 # firebase
 .firebase
 firebase-debug.log*
+
+#wsl
+*.identifier
+*.Identifier
