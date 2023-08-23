@@ -8,5 +8,16 @@
         "02:75:F0:E0:D7:7C:47:7F:10:C2:D7:3B:8F:75:ED:CC:46:C8:7C:76:D5:09:5C:62:9E:DF:DB:00:B4:23:58:42"
       ]
     }
+  },
+
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.web.android_intent_urls.twa",
+      "sha256_cert_fingerprints": [
+        "02:75:F0:E0:D7:7C:47:7F:10:C2:D7:3B:8F:75:ED:CC:46:C8:7C:76:D5:09:5C:62:9E:DF:DB:00:B4:23:58:42"
+      ]
+    }
   }
 ]
