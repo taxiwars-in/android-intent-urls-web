@@ -24,6 +24,7 @@ function App() {
       <a href="intent://#Intent;scheme=https;package=app.web.android_intent_urls.twa;S.custom_data=your_custom_data;end">
         Open App with Custom Data
       </a>
+      <br />
       <a href="intent://#Intent;scheme=https;package=in.taxiwars.driver.twa;S.custom_data=your_custom_data;end">
         Open taxiwars App with Custom Data
       </a>
