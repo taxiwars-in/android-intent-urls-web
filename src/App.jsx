@@ -21,7 +21,7 @@ function App() {
       <h2>
         Version-&nbsp;&nbsp;&nbsp;<span>2</span>
       </h2>
-      <a href="intent://view/#Intent;scheme=app.web.android_intent_urls.twa;package=app.web.android_intent_urls.twa;S.custom_data=your_custom_data;end">
+      <a href="intent://scheme=https;package=app.web.android_intent_urls.twa;S.custom_data=your_custom_data;end">
         Open App with Custom Data
       </a>
 
